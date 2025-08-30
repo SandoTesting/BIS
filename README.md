@@ -2,6 +2,13 @@
 
 BIS is a platform where all resources which used in company are all in one place.
 
+Features:
+
+- User Authentication and authorization
+- Security
+- Tracking
+  
+
 # Develop Using APP script
 
 Technology used:
