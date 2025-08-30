@@ -1,5 +1,6 @@
 # BIS
-Testing Purpose
+
+BIS is a platform where all resources which used in company are all in one place, so user don't have to go through all ID and checking for that things.
 
 # Develop Using APP script
 
